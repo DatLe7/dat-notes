@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eec41876b5284f27",
+        "id": "9c1e3081a0a8d4d6",
         "type": "tabs",
         "children": [
           {
-            "id": "bff159dcaa219961",
+            "id": "154b03b3cff161a7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Classes/MATH 21/1 Intro to Linear Equations and Gaussian Elimination and REF and RREF.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "1 Intro to Linear Equations and Gaussian Elimination and REF and RREF"
             }
           }
         ]
@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Classes/MATH 21/1 Intro to Linear Equations and Gaussian Elimination and REF and RREF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 1 Intro to Linear Equations and Gaussian Elimination and REF and RREF"
             }
           },
           {
@@ -172,11 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bff159dcaa219961",
+  "active": "154b03b3cff161a7",
   "lastOpenFiles": [
+    "Image Files/Pasted image 20250107155014.png",
     "Classes/CSE 40/1 Intro To AIML.md",
     "Classes/CSE 40/Untitled.md",
-    "Classes/MATH 21/1 Intro to Linear Equations and Gaussian Elimination.md",
+    "Classes/MATH 21/1 Intro to Linear Equations and Gaussian Elimination and REF and RREF.md",
     "Image Files/Pasted image 20250106171059.png",
     "Image Files/Pasted image 20250106164657.png",
     "Image Files/Pasted image 20250106163706.png",

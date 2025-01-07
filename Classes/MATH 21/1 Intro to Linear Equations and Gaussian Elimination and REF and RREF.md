@@ -21,6 +21,10 @@ $$
 0 0 1
 \end{vmatrix}
 $$
+### Row Echelon Form(REF) vs Reduced Row Echelon Form(RREF)
+![[Pasted image 20250107155014.png]]
+- RREF is Row Echelon Form but all of the leading/pivoting variables must be the only non-zero value
+
 ![[Pasted image 20250106171059.png]]
 ![[Pasted image 20250106163624.png]]
 ![[Pasted image 20250106163646.png]]
