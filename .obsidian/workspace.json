@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "02a5b55294e6deb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "eec41876b5284f27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bff159dcaa219961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CSE 40/1 Intro To AIML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 Intro To AIML"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4971ac7a240fc5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "58383c706406b677",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "389e1ac9ae8c977a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "efcf9464edc27420",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f997c983ed014748",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19801aff5a2dc11e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b8980da7c43fa65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1a4ee47f75260e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MIT Linear Algebra Course/Independent Vs Dependent Vectors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Independent Vs Dependent Vectors"
+            }
+          },
+          {
+            "id": "81f4380cb5e183cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MIT Linear Algebra Course/Independent Vs Dependent Vectors.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Independent Vs Dependent Vectors"
+            }
+          },
+          {
+            "id": "8d108164abaea301",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ec78af2da8520428",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MIT Linear Algebra Course/Independent Vs Dependent Vectors.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Independent Vs Dependent Vectors"
+            }
+          },
+          {
+            "id": "11d361c1511a60c4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "11d361c1511a60c4",
+  "lastOpenFiles": [
+    "999 Templates/{{title}}.md",
+    "Classes/CSE 40/1 Intro To AIML.md",
+    "Classes/CSE 40",
+    "999 Templates",
+    "Classes/CSE 30/CSE 30 Lecture 2.md",
+    "Untitled.canvas",
+    "Classes/CSE 30/CSE 30 Lecture 1.md",
+    "Clubs/SlugBotics - CruzControl/AIML Onboarding.md",
+    "MIT Linear Algebra Course",
+    "MIT Linear Algebra Course/Independent Vs Dependent Vectors.md",
+    "Clubs/SlugBotics - CruzControl",
+    "Classes/CSE 30",
+    "Clubs",
+    "Classes",
+    "Index.md",
+    "Image Files/Pasted image 20241012172034.png",
+    "Image Files",
+    "Image Files/Pasted image 20241012170618.png",
+    "Image Files/Pasted image 20241012164738.png",
+    "Image Files/Pasted image 20241012164101.png",
+    "Image Files/Pasted image 20241003173459.png",
+    "BEES/BEES Programming Lecture 6.md",
+    "BEES/BEES Programming Lecture 5.md",
+    "BEES/BEES Programming Lecture 2 - Variables, Expressions, Operators.md",
+    "Pasted image 20241003173319.png",
+    "Pasted image 20240915114825.png",
+    "BEES",
+    "Pasted image 20240915115108.png",
+    "BEES/Math Lecture 2 - Functions and their properties.md"
+  ]
+}
