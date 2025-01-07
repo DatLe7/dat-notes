@@ -175,10 +175,13 @@
   },
   "active": "154b03b3cff161a7",
   "lastOpenFiles": [
-    "Image Files/Pasted image 20250107155014.png",
     "Classes/CSE 40/1 Intro To AIML.md",
-    "Classes/CSE 40/Untitled.md",
+    "Classes/CSE 30/CSE 30 Lecture 2.md",
+    "Classes/CSE 30/CSE 30 Lecture 1.md",
     "Classes/MATH 21/1 Intro to Linear Equations and Gaussian Elimination and REF and RREF.md",
+    "Classes/CSE 12",
+    "Image Files/Pasted image 20250107155014.png",
+    "Classes/CSE 40/Untitled.md",
     "Image Files/Pasted image 20250106171059.png",
     "Image Files/Pasted image 20250106164657.png",
     "Image Files/Pasted image 20250106163706.png",
@@ -189,13 +192,10 @@
     "Image Files/Pasted image 20250106162211.png",
     "Image Files/Pasted image 20241012172034.png",
     "Image Files/Pasted image 20250106161859.png",
-    "Image Files/Pasted image 20241012170618.png",
     "999 Templates/{{title}}.md",
     "Classes/CSE 40",
     "999 Templates",
-    "Classes/CSE 30/CSE 30 Lecture 2.md",
     "Untitled.canvas",
-    "Classes/CSE 30/CSE 30 Lecture 1.md",
     "Clubs/SlugBotics - CruzControl/AIML Onboarding.md",
     "MIT Linear Algebra Course",
     "MIT Linear Algebra Course/Independent Vs Dependent Vectors.md",
@@ -208,7 +208,6 @@
     "BEES/BEES Programming Lecture 6.md",
     "BEES/BEES Programming Lecture 5.md",
     "BEES/BEES Programming Lecture 2 - Variables, Expressions, Operators.md",
-    "BEES",
     "BEES/Math Lecture 2 - Functions and their properties.md"
   ]
 }
