@@ -1,0 +1,1 @@
+Basically unreadable if you don't open the markdown files in obsidian with the LaTeX plugin

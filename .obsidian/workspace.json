@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/MATH 21/3 Rn, linear combination, Span.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 Rn, linear combination, Span"
+              "title": "README"
             }
           }
         ]
@@ -175,12 +175,12 @@
   },
   "active": "800b0d98a3694bb6",
   "lastOpenFiles": [
+    "Classes/MATH 21/3 Rn, linear combination, Span.md",
     "Image Files/Pasted image 20250110230248.png",
     "Image Files/Pasted image 20250110230110.png",
     "Image Files/Pasted image 20250110230058.png",
     "Image Files/Pasted image 20250110230045.png",
     "Classes/MATH 21/1 Intro to Linear Equations and Gaussian Elimination and Row Echelon Form.md",
-    "Classes/MATH 21/3 Rn, linear combination, Span.md",
     "Image Files/Pasted image 20250110224226.png",
     "Classes/CSE 40/3 Types of Machine Learning.md",
     "Image Files/Pasted image 20250110223737.png",
@@ -188,7 +188,6 @@
     "Image Files/Pasted image 20250110224156.png",
     "Image Files/Pasted image 20250110223730.png",
     "Image Files/Pasted image 20250110223603.png",
-    "Image Files/Pasted image 20250110223558.png",
     "Classes/MATH 21/2 Matrix Form of Linear Equations and RREF.md",
     "Classes/CSE 40/2 Different Kinds of Reasoning.md",
     "Classes/CSE 40/1 Intro To AIML.md",
