@@ -50,4 +50,5 @@ $$
 ![[Pasted image 20250110230248.png]]
 - If an A vector has more rows then columns (m>n) then it is inconsistent has in RREF there will always be a row with all zeros as there can only be n amount of pivot position/columns. That means that we are able to find a $\vec{b}$ where the row of zeros equals a non-zero value making it have no solutions.
 
+- The span of a matrix is determined by how many pivot positions it has so if the matrix is in $\mathbb{R}^4$ space but only has 3 pivot positions then its span is only $\mathbb{R}^3$ 
 
