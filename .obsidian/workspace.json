@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9c1e3081a0a8d4d6",
+        "id": "a6130019f1e55e48",
         "type": "tabs",
         "children": [
           {
-            "id": "154b03b3cff161a7",
+            "id": "800b0d98a3694bb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSE 40/1 Intro To AIML.md",
+                "file": "Classes/MATH 21/3 Rn, linear combination, Span.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Intro To AIML"
+              "title": "3 Rn, linear combination, Span"
             }
           }
         ]
@@ -173,23 +173,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "389e1ac9ae8c977a",
+  "active": "800b0d98a3694bb6",
   "lastOpenFiles": [
-    "Classes/Archive",
-    "Classes/CSE 40/2 Different Kinds of Reasoning.md",
-    "Image Files/Pasted image 20250108233443.png",
-    "Image Files/Pasted image 20250108233329.png",
-    "Image Files/Pasted image 20250108233151.png",
-    "Classes/CSE 40/1 Intro To AIML.md",
-    "Classes/MATH 21/1 Intro to Linear Equations and Gaussian Elimination and Row Echelon Form.md",
+    "Image Files/Pasted image 20250110223742.png",
+    "Image Files/Pasted image 20250110223737.png",
+    "Image Files/Pasted image 20250110223730.png",
+    "Image Files/Pasted image 20250110223603.png",
+    "Image Files/Pasted image 20250110223558.png",
+    "Image Files/Pasted image 20250110223550.png",
+    "Image Files/Pasted image 20250110223547.png",
+    "Image Files/Pasted image 20250110221555.png",
+    "Image Files/Pasted image 20250110221535.png",
+    "Image Files/Pasted image 20241003173459.png",
+    "Classes/MATH 21/3 Rn, linear combination, Span.md",
+    "Image Files/Pasted image 20250110221217.png",
     "Classes/MATH 21/2 Matrix Form of Linear Equations and RREF.md",
-    "Image Files/Pasted image 20250108215050.png",
-    "Image Files/Pasted image 20250108215000.png",
-    "Image Files/Pasted image 20250108214756.png",
-    "Image Files/Pasted image 20250108214608.png",
-    "Image Files/Pasted image 20250108214600.png",
-    "Image Files/Pasted image 20250108213632.png",
-    "Image Files/Pasted image 20250108212729.png",
+    "Classes/CSE 40/3 Types of Machine Learning.md",
+    "Classes/CSE 40/2 Different Kinds of Reasoning.md",
+    "Classes/CSE 40/1 Intro To AIML.md",
+    "Classes/Archive",
+    "Classes/MATH 21/1 Intro to Linear Equations and Gaussian Elimination and Row Echelon Form.md",
     "Classes/Archive/CSE 30/CSE 30 Lecture 1.md",
     "Classes/Archive/CSE 30/CSE 30 Lecture 2.md",
     "Classes/CSE 12",
@@ -206,7 +209,6 @@
     "Clubs",
     "Classes",
     "Index.md",
-    "Image Files",
     "BEES/BEES Programming Lecture 6.md",
     "BEES/BEES Programming Lecture 5.md",
     "BEES/BEES Programming Lecture 2 - Variables, Expressions, Operators.md",
