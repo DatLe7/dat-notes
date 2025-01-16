@@ -11,6 +11,9 @@
 - 1. Any two vectors that are linear combinations of V/fall in its span must be able to be multiplied together and the product must still fall in the span of V
 - 2. Any vector that that is a linear combinations of V/falls in its span must remain in the span of V even after multiplying it by any constants
 - The zero vector must also be included for V to be a linear subspace
+- ##### **In the context of a augmented matrix the span usually refers to the of vectors that are solutions to it**
+- ##### **To be considered a set of $\mathbb{R}^m$ the zero vector must be included because every vector in $\mathbb{R}^m$ starts at the origin**
+- A subspace DOES NOT have to span the entirety of $\mathbb{R}^m$
 ![[Pasted image 20250113205243.png]]
 ![[Pasted image 20250113205254.png]]
 #### Null(A)
