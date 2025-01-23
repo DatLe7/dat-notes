@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSE 12/3 SOP, POS, Decoders, Multiplexers.md",
+                "file": "Classes/MATH 21/7 Nullity and Rank of a Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 SOP, POS, Decoders, Multiplexers"
+              "title": "7 Nullity and Rank of a Matrix"
             }
           }
         ]
@@ -175,6 +175,13 @@
   },
   "active": "800b0d98a3694bb6",
   "lastOpenFiles": [
+    "Classes/MATH 21/6 Basis, Dimension.md",
+    "Classes/MATH 21/7 Nullity and Rank of a Matrix.md",
+    "Image Files/Pasted image 20250123085101.png",
+    "Classes/MATH 21/5 Linear Independence and Basis.md",
+    "Classes/CSE 40/6 Overfitting, Errors Tradeoffs and Common Problems.md",
+    "Classes/CSE 40/5 Evaluations and common errors.md",
+    "Classes/CSE 12/3 SOP, POS, Decoders, Multiplexers.md",
     "Image Files/Pasted image 20250122200751.png",
     "Image Files/Pasted image 20250122200633.png",
     "Image Files/Pasted image 20250122200548.png",
@@ -184,19 +191,12 @@
     "Image Files/Pasted image 20250122200302.png",
     "Image Files/Pasted image 20250122200235.png",
     "Image Files/Pasted image 20250122200007.png",
-    "Image Files/Pasted image 20250122195927.png",
-    "Image Files/Pasted image 20250122195850.png",
     "Classes/CSE 12/2 Boolean Algebra.md",
-    "Classes/CSE 12/3 SOP, POS, Decoders, Multiplexers.md",
     "Classes/CSE 12/1 Abstraction Gates.md",
-    "Classes/CSE 40/6 Overfitting, Errors Tradeoffs and Common Problems.md",
     "Classes/CSE 40/4 Basic Machine Learning and Evaluation.md",
     "Classes/CSE 40/3 Types of Machine Learning.md",
-    "Classes/CSE 40/5 Evaluations and common errors.md",
-    "Classes/MATH 21/5 Linear Independence and Basis.md",
     "Classes/CSE 40/1 Intro To AIML.md",
     "Classes/CSE 40/2 Different Kinds of Reasoning.md",
-    "Classes/MATH 21/6 Basis, Dimension.md",
     "Classes/MATH 21/4 Span and Linear Subspace.md",
     "Classes/MATH 21/3 Rn, linear combination, Span.md",
     "Classes/MATH 21/2 Matrix Form of Linear Equations and RREF.md",
@@ -220,7 +220,6 @@
     "Clubs",
     "Classes",
     "Index.md",
-    "BEES/BEES Programming Lecture 6.md",
-    "BEES/BEES Programming Lecture 5.md"
+    "BEES/BEES Programming Lecture 6.md"
   ]
 }
