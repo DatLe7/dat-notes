@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSE 12/1 CSE 12 idk title.md",
+                "file": "Classes/CSE 12/3 SOP, POS, Decoders, Multiplexers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 CSE 12 idk title"
+              "title": "3 SOP, POS, Decoders, Multiplexers"
             }
           }
         ]
@@ -175,27 +175,30 @@
   },
   "active": "800b0d98a3694bb6",
   "lastOpenFiles": [
-    "Classes/CSE 40/5 Evaluations and common errors.md",
+    "Image Files/Pasted image 20250122200751.png",
+    "Image Files/Pasted image 20250122200633.png",
+    "Image Files/Pasted image 20250122200548.png",
+    "Image Files/Pasted image 20250122200509.png",
+    "Image Files/Pasted image 20250122200429.png",
+    "Image Files/Pasted image 20250122200344.png",
+    "Image Files/Pasted image 20250122200302.png",
+    "Image Files/Pasted image 20250122200235.png",
+    "Image Files/Pasted image 20250122200007.png",
+    "Image Files/Pasted image 20250122195927.png",
+    "Image Files/Pasted image 20250122195850.png",
+    "Classes/CSE 12/2 Boolean Algebra.md",
+    "Classes/CSE 12/3 SOP, POS, Decoders, Multiplexers.md",
+    "Classes/CSE 12/1 Abstraction Gates.md",
+    "Classes/CSE 40/6 Overfitting, Errors Tradeoffs and Common Problems.md",
     "Classes/CSE 40/4 Basic Machine Learning and Evaluation.md",
     "Classes/CSE 40/3 Types of Machine Learning.md",
+    "Classes/CSE 40/5 Evaluations and common errors.md",
+    "Classes/MATH 21/5 Linear Independence and Basis.md",
     "Classes/CSE 40/1 Intro To AIML.md",
     "Classes/CSE 40/2 Different Kinds of Reasoning.md",
     "Classes/MATH 21/6 Basis, Dimension.md",
-    "Image Files/Pasted image 20250120120939.png",
-    "Image Files/Pasted image 20250120120930.png",
-    "Image Files/Pasted image 20250120120911.png",
-    "Image Files/Pasted image 20250120120828.png",
-    "Image Files/Pasted image 20250120120733.png",
-    "Image Files/Pasted image 20250120120504.png",
-    "Image Files/Pasted image 20250120120444.png",
-    "Image Files/Pasted image 20250120115909.png",
-    "Image Files/Pasted image 20250120115900.png",
-    "Image Files/Pasted image 20250120115836.png",
-    "Classes/MATH 21/5 Linear Independence and Basis.md",
-    "Classes/CSE 12/1 CSE 12 idk title.md",
     "Classes/MATH 21/4 Span and Linear Subspace.md",
     "Classes/MATH 21/3 Rn, linear combination, Span.md",
-    "Classes/CSE 40/Untitled.md",
     "Classes/MATH 21/2 Matrix Form of Linear Equations and RREF.md",
     "Classes/MATH 21/1 Intro to Linear Equations and Gaussian Elimination and Row Echelon Form.md",
     "Untitled.md",
@@ -218,8 +221,6 @@
     "Classes",
     "Index.md",
     "BEES/BEES Programming Lecture 6.md",
-    "BEES/BEES Programming Lecture 5.md",
-    "BEES/BEES Programming Lecture 2 - Variables, Expressions, Operators.md",
-    "BEES/Math Lecture 2 - Functions and their properties.md"
+    "BEES/BEES Programming Lecture 5.md"
   ]
 }
