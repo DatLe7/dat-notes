@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/MATH 21/7 Nullity and Rank of a Matrix.md",
+                "file": "Classes/CSE 40/7 Basic ML Math part 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 Nullity and Rank of a Matrix"
+              "title": "7 Basic ML Math part 1"
             }
           }
         ]
@@ -175,24 +175,25 @@
   },
   "active": "800b0d98a3694bb6",
   "lastOpenFiles": [
-    "Classes/MATH 21/6 Basis, Dimension.md",
     "Classes/MATH 21/7 Nullity and Rank of a Matrix.md",
-    "Image Files/Pasted image 20250123085101.png",
-    "Classes/MATH 21/5 Linear Independence and Basis.md",
+    "Classes/CSE 40/7 Basic ML Math part 1.md",
     "Classes/CSE 40/6 Overfitting, Errors Tradeoffs and Common Problems.md",
+    "Image Files/Pasted image 20250123092753.png",
+    "Image Files/Pasted image 20250123092744.png",
+    "Image Files/Pasted image 20250123092532.png",
+    "Image Files/Pasted image 20250123092227.png",
+    "Image Files/Pasted image 20250123092148.png",
+    "Image Files/Pasted image 20250123092026.png",
+    "Image Files/Pasted image 20250123091917.png",
+    "Image Files/Pasted image 20250123091844.png",
     "Classes/CSE 40/5 Evaluations and common errors.md",
-    "Classes/CSE 12/3 SOP, POS, Decoders, Multiplexers.md",
-    "Image Files/Pasted image 20250122200751.png",
-    "Image Files/Pasted image 20250122200633.png",
-    "Image Files/Pasted image 20250122200548.png",
-    "Image Files/Pasted image 20250122200509.png",
-    "Image Files/Pasted image 20250122200429.png",
-    "Image Files/Pasted image 20250122200344.png",
-    "Image Files/Pasted image 20250122200302.png",
-    "Image Files/Pasted image 20250122200235.png",
-    "Image Files/Pasted image 20250122200007.png",
+    "Image Files/Pasted image 20250123091715.png",
+    "Image Files/Pasted image 20250123091520.png",
     "Classes/CSE 12/2 Boolean Algebra.md",
+    "Classes/CSE 12/3 SOP, POS, Decoders, Multiplexers.md",
     "Classes/CSE 12/1 Abstraction Gates.md",
+    "Classes/MATH 21/6 Basis, Dimension.md",
+    "Classes/MATH 21/5 Linear Independence and Basis.md",
     "Classes/CSE 40/4 Basic Machine Learning and Evaluation.md",
     "Classes/CSE 40/3 Types of Machine Learning.md",
     "Classes/CSE 40/1 Intro To AIML.md",

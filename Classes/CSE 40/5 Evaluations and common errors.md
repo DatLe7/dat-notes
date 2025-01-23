@@ -5,7 +5,7 @@
 ## Notes:
 
 ### Error Estimation
-
+*Common Approach*
 - Split your available data into a training set and a test set
 - Use the training set for finding the best hypothesis
 - Do error estimation on the test set
