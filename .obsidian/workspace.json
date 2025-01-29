@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "800b0d98a3694bb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/CSE 40/7 Basic ML Math part 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7 Basic ML Math part 1"
-            }
-          },
-          {
             "id": "f34d9188624dc1b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSE 40/8 Basic ML Math part 2.md",
+                "file": "Classes/CSE 12/5 blah bah.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 Basic ML Math part 2"
+              "title": "5 blah bah"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,6 +175,12 @@
   },
   "active": "f34d9188624dc1b0",
   "lastOpenFiles": [
+    "Classes/CSE 40/8 Basic ML Math part 2.md",
+    "Classes/CSE 12/5 blah bah.md",
+    "Classes/CSE 12/4 Xmission Gates, Data Storage and Sequential Circuits.md",
+    "Classes/MATH 21/9 Linear Maps and Dot Product.md",
+    "Image Files/Pasted image 20250128172940.png",
+    "Image Files/Pasted image 20250128172741.png",
     "Image Files/Pasted image 20250128160917.png",
     "Image Files/Pasted image 20250128160648.png",
     "Image Files/Pasted image 20250128160322.png",
@@ -198,15 +189,9 @@
     "Image Files/Pasted image 20250128160126.png",
     "Image Files/Pasted image 20250128160000.png",
     "Image Files/Pasted image 20250128155839.png",
-    "Image Files/Pasted image 20250128155755.png",
     "Classes/CSE 40/7 Basic ML Math part 1.md",
-    "Image Files/Pasted image 20250128155722.png",
-    "Image Files/Pasted image 20250128155617.png",
-    "Classes/MATH 21/9 Linear Maps and Dot Product.md",
     "Classes/MATH 21/8 Matrix Algebra.md",
     "Classes/MATH 21/7 Nullity and Rank of a Matrix.md",
-    "Classes/CSE 40/8 Basic ML Math part 2.md",
-    "Classes/CSE 12/4 Xmission Gates, Data Storage and Sequential Circuits.md",
     "Classes/CSE 12/3 SOP, POS, Decoders, Multiplexers.md",
     "Classes/MATH 21/3 Rn, linear combination, Span.md",
     "Classes/MATH 21/2 Matrix Form of Linear Equations and RREF.md",
