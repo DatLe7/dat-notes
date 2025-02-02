@@ -29,7 +29,7 @@ Knowing about event A gives us no additional information about event B.
 ![[Pasted image 20250202152721.png]]
 
 ### Conditional Independence and Dependence
-![[Pasted image 20250202152940.png]]
+![[Pasted image 20250202153210.png]]
 ![[Pasted image 20250202153007.png]]
 - The top one is conditionally independent because if we did good on the quiz and we studied then that tells us nothing about how well we slept because we already have an explanation for why we did good on the test
 - The bottom one is conditionally dependent because if we did well on the race then we know we must have slept well meaning that we also must have done good on the quiz
