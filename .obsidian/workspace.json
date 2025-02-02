@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSE 12/5 Synchronous Ckts, Edge Triggered FF's, Data Representation.md",
+                "file": "Classes/MATH 21/9 Linear Maps and Dot Product.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 Synchronous Ckts, Edge Triggered FF's, Data Representation"
+              "title": "9 Linear Maps and Dot Product"
             }
           }
         ]
@@ -176,21 +176,22 @@
   },
   "active": "f34d9188624dc1b0",
   "lastOpenFiles": [
+    "Classes/CSE 40/9 Combinatorics.md",
+    "Image Files/Pasted image 20250202142641.png",
+    "Image Files/Pasted image 20250202142633.png",
+    "Image Files/Pasted image 20250202142624.png",
+    "Image Files/Pasted image 20250202142602.png",
+    "Image Files/Pasted image 20250202142514.png",
+    "Image Files/Pasted image 20250202142439.png",
+    "Image Files/Pasted image 20250202142410.png",
+    "Classes/CSE 40/8 Basic ML Math part 2.md",
+    "Classes/CSE 12/6 isk.md",
+    "Classes/MATH 21/9 Linear Maps and Dot Product.md",
+    "Classes/CSE 12/5 Synchronous Ckts, Edge Triggered FF's, Data Representation.md",
     "Image Files/Pasted image 20250202141649.png",
     "Image Files/Pasted image 20250202141626.png",
     "Image Files/Pasted image 20250202141615.png",
-    "Image Files/Pasted image 20250202141537.png",
-    "Image Files/Pasted image 20250202141459.png",
-    "Image Files/Pasted image 20250202141334.png",
-    "Image Files/Pasted image 20250202140844.png",
-    "Image Files/Pasted image 20250202140746.png",
-    "Image Files/Pasted image 20250202140605.png",
-    "Image Files/Pasted image 20250202140547.png",
-    "Image Files/Pasted image 20250202140256.png",
     "Classes/CSE 12/4 Xmission Gates, Data Storage and Sequential Circuits.md",
-    "Classes/CSE 12/5 Synchronous Ckts, Edge Triggered FF's, Data Representation.md",
-    "Classes/CSE 40/8 Basic ML Math part 2.md",
-    "Classes/MATH 21/9 Linear Maps and Dot Product.md",
     "Classes/CSE 40/7 Basic ML Math part 1.md",
     "Classes/MATH 21/3 Rn, linear combination, Span.md",
     "Classes/CSE 40/6 Overfitting, Errors Tradeoffs and Common Problems.md",
@@ -211,8 +212,6 @@
     "Classes/MATH 21/1 Intro to Linear Equations and Gaussian Elimination and Row Echelon Form.md",
     "README.md",
     "Classes/Archive",
-    "Classes/Archive/CSE 30/CSE 30 Lecture 1.md",
-    "Classes/Archive/CSE 30/CSE 30 Lecture 2.md",
     "Classes/CSE 12",
     "Classes/MATH 21",
     "Classes/CSE 40",
