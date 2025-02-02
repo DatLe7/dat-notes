@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSE 40/10 Basic ML Math 2 part 1.md",
+                "file": "Classes/CSE 12/6 Shifts and Rotates, Base Conversions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 Basic ML Math 2 part 1"
+              "title": "6 Shifts and Rotates, Base Conversions"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "active": "f34d9188624dc1b0",
   "lastOpenFiles": [
+    "Classes/CSE 40/10 Basic ML Math 2 part 1.md",
     "Image Files/Pasted image 20250202153210.png",
     "Image Files/Pasted image 20250202153007.png",
     "Image Files/Pasted image 20250202152940.png",
@@ -186,10 +187,8 @@
     "Image Files/Pasted image 20250202152432.png",
     "Image Files/Pasted image 20250202152337.png",
     "Image Files/Pasted image 20250202152244.png",
-    "Image Files/Pasted image 20250202152212.png",
     "Classes/CSE 12/5 Synchronous Ckts, Edge Triggered FF's, Data Representation.md",
-    "Classes/CSE 12/6 isk.md",
-    "Classes/CSE 40/10 Basic ML Math 2 part 1.md",
+    "Classes/CSE 12/6 Shifts and Rotates, Base Conversions.md",
     "Classes/MATH 21/11 More Inverses and Transpose.md",
     "Classes/CSE 40/9 Combinatorics.md",
     "Classes/MATH 21/7 Nullity and Rank of a Matrix.md",
