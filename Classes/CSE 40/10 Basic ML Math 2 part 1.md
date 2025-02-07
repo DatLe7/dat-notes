@@ -31,5 +31,18 @@ Knowing about event A gives us no additional information about event B.
 ### Conditional Independence and Dependence
 ![[Pasted image 20250202153210.png]]
 ![[Pasted image 20250202153007.png]]
-- The top one is conditionally independent because if we did good on the quiz and we studied then that tells us nothing about how well we slept because we already have an explanation for why we did good on the test
-- The bottom one is conditionally dependent because if we did well on the race then we know we must have slept well meaning that we also must have done good on the quiz
+### Top Graph:
+- This is a **collider** structure, where two arrows converge into the same node (Quiz).
+- **Conditional Independence:**
+    - **Unconditionally:** _Study_ and _Sleep_ are **independent** because there’s no direct or indirect path connecting them unless we condition on _Quiz_.
+    - **Conditioning on Quiz:** _Study_ and _Sleep_ become **dependent** when you condition on _Quiz_. This is known as **"explaining away"**—knowing about _Quiz_ performance creates a dependency between _Study_ and _Sleep_.
+### Bottom Graph:
+- This is a **fork** structure, where _Sleep_ is a common cause of both _Race_ and _Quiz_.
+- **Conditional Dependence:**
+    - **Unconditionally:** _Race_ and _Quiz_ are **dependent** because they share a common cause (_Sleep_), creating a potential correlation.
+    - **Conditioning on Sleep:** _Race_ and _Quiz_ become **independent** when you condition on _Sleep_ because the shared cause is accounted for.
+![[Pasted image 20250206160102.png]]
+
+### Variance
+![[Pasted image 20250206154535.png]]
+![[Pasted image 20250206154546.png]]

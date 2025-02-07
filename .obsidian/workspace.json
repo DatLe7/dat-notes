@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/MATH 21/12 Elementary Matrices.md",
+                "file": "Classes/CSE 40/10 Basic ML Math 2 part 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 Elementary Matrices"
+              "title": "10 Basic ML Math 2 part 1"
             }
           }
         ],
@@ -191,25 +191,24 @@
   },
   "active": "ed22e80ef32ff5c2",
   "lastOpenFiles": [
+    "Classes/CSE 40/11 Basic ML Math 2 part 2.md",
+    "Classes/CSE 40/9 Combinatorics.md",
+    "Classes/CSE 40/8 Basic ML Math part 2.md",
+    "Classes/CSE 40/10 Basic ML Math 2 part 1.md",
+    "Image Files/Pasted image 20250206160102.png",
+    "Image Files/Pasted image 20250206154546.png",
+    "Image Files/Pasted image 20250206154535.png",
+    "Image Files/Pasted image 20250206154513.png",
+    "Classes/MATH 21/12 Elementary Matrices.md",
     "Image Files/Pasted image 20250205082023.png",
     "Image Files/Pasted image 20250205081923.png",
     "Image Files/Pasted image 20250205081638.png",
     "Image Files/Pasted image 20250205081624.png",
     "Image Files/Pasted image 20250205081113.png",
     "Image Files/Pasted image 20250205081045.png",
-    "Image Files/Pasted image 20250205081038.png",
-    "Image Files/Pasted image 20250205081006.png",
-    "Image Files/Pasted image 20250205080948.png",
-    "Image Files/Pasted image 20250205080831.png",
-    "Image Files/Pasted image 20250205080603.png",
-    "Classes/CSE 40/11 Basic ML Math 2 part 2.md",
-    "Classes/MATH 21/12 Elementary Matrices.md",
     "Classes/CSE 12/6 Shifts and Rotates, Base Conversions.md",
-    "Classes/CSE 40/10 Basic ML Math 2 part 1.md",
     "Classes/MATH 21/11 More Inverses and Transpose.md",
     "Classes/CSE 12/5 Synchronous Ckts, Edge Triggered FF's, Data Representation.md",
-    "Classes/CSE 40/9 Combinatorics.md",
-    "Classes/CSE 40/8 Basic ML Math part 2.md",
     "Classes/MATH 21/7 Nullity and Rank of a Matrix.md",
     "Classes/MATH 21/6 Basis, Dimension.md",
     "Classes/MATH 21/8 Matrix Algebra.md",
