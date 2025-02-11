@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSE 40/11 Basic ML Math 2 part 2.md",
+                "file": "Classes/MATH 21/14 Abstract Vector Spaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 Basic ML Math 2 part 2"
-            }
-          },
-          {
-            "id": "3c71a845e270c769",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/MATH 21/13 Determinants.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13 Determinants"
+              "title": "14 Abstract Vector Spaces"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,30 +189,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c71a845e270c769",
+  "active": "ed22e80ef32ff5c2",
   "lastOpenFiles": [
-    "Image Files/Pasted image 20250210185720.png",
-    "Image Files/Pasted image 20250210185712.png",
-    "Image Files/Pasted image 20250210185701.png",
-    "Image Files/Pasted image 20250210185641.png",
-    "Image Files/Pasted image 20250210185535.png",
-    "Image Files/Pasted image 20250210184849.png",
-    "Image Files/Pasted image 20250210184401.png",
-    "Classes/MATH 21/12 Elementary Matrices.md",
+    "Image Files/Pasted image 20250211124929.png",
+    "Image Files/Pasted image 20250211124920.png",
+    "Image Files/Pasted image 20250211124849.png",
+    "Image Files/Pasted image 20250211124752.png",
+    "Image Files/Pasted image 20250211124636.png",
+    "Image Files/Pasted image 20250211124629.png",
+    "Image Files/Pasted image 20250211124606.png",
+    "Image Files/Pasted image 20250211124529.png",
+    "Image Files/Pasted image 20250211123749.png",
+    "Image Files/Pasted image 20250211123737.png",
+    "Image Files/Pasted image 20250211123702.png",
     "Classes/MATH 21/13 Determinants.md",
+    "Classes/MATH 21/14 Abstract Vector Spaces.md",
+    "Classes/CSE 40/11 Basic ML Math 2 part 2.md",
+    "2025-02-10.md",
+    "Classes/MATH 21/12 Elementary Matrices.md",
     "Classes/CSE 40/13 Data Wrangling.md",
     "Classes/CSE 40/12 Basic ML Math 2 part 3.md",
-    "Classes/CSE 40/11 Basic ML Math 2 part 2.md",
-    "Image Files/Pasted image 20250210182221.png",
-    "Image Files/Pasted image 20250210182149.png",
-    "Image Files/Pasted image 20250210182126.png",
     "Classes/CSE 40/10 Basic ML Math 2 part 1.md",
     "Classes/CSE 40/9 Combinatorics.md",
     "Classes/MATH 21/11 More Inverses and Transpose.md",
     "Classes/MATH 21/10 Matrix Inverses.md",
     "Classes/CSE 12/6 Shifts and Rotates, Base Conversions.md",
     "Classes/CSE 40/8 Basic ML Math part 2.md",
-    "Image Files/Pasted image 20250206160102.png",
     "Classes/CSE 12/5 Synchronous Ckts, Edge Triggered FF's, Data Representation.md",
     "Classes/MATH 21/7 Nullity and Rank of a Matrix.md",
     "Classes/MATH 21/6 Basis, Dimension.md",
@@ -239,8 +227,6 @@
     "Classes/CSE 12/3 SOP, POS, Decoders, Multiplexers.md",
     "Classes/MATH 21/2 Matrix Form of Linear Equations and RREF.md",
     "Classes/MATH 21/5 Linear Independence and Basis.md",
-    "Classes/CSE 40/5 Evaluations and common errors.md",
-    "Classes/CSE 40/4 Basic Machine Learning and Evaluation.md",
     "Classes/Archive",
     "Classes/CSE 12",
     "Classes/MATH 21",
