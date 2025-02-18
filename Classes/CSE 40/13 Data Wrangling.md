@@ -85,3 +85,36 @@ An ideal, high-quality data set is:
 - **Valid**. The data falls within appropriate ranges, parameters, and formats.
 - **Timely**. The data is recent and up-to-date.
 - **Uniform**. Units of measure and representations are consistent across the data set.
+
+### Data Cleaning Process
+- The standard data cleaning process consists of the following stages:
+	Importing data
+	Merging data sets
+	Rebuilding missing data
+	Standardization
+	Normalization
+	Deduplication
+	Verification & enrichment
+	Exporting data
+
+### Duplicates and Irrelevant Data
+**Remove duplicates**
+- Duplicate records can appear for various reasons (data entry errors, merging multiple data sources, multiple patient visits, name ambiguity…).
+- It’s important to understand when duplicates makes sense versus when they are errors and need to be removed (or collapsed/combined).
+**Remove irrelevant data**
+- Previously collected data often includes observations that aren’t relevant to the current problem (e.g., data that is too old, refers to a different subpopulation, or doesn’t satisfy constraints of a particular investigation).
+- Removing unnecessary features/attributes is a separate step that we’ll cover later, during “Feature Engineering.”
+
+### Identifying and Repairing Incorrect Data
+- Understanding when data is incorrect (and how to fix it) often requires domain knowledge or talking with domain experts.
+
+### Structural Errors
+- “**Structural errors**” refers to a wide variety of formatting and naming inconsistencies that need to be addressed in order for ML algorithms to work correctly.
+
+### Missing Data
+- Sometimes some of the feature values are missing (e.g., null, empty field, white space).
+Important issue: **missing data mechanisms**
+![[Pasted image 20250217180706.png]]
+
+
+
