@@ -95,3 +95,5 @@
 ![[Pasted image 20250202141626.png]]
 ![[Pasted image 20250202141649.png]]
 - Basically take the sign and extend it for the amount of bits needed
+![[Pasted image 20250219170606.png]]
+![[Pasted image 20250219171031.png]]

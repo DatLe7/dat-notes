@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a6130019f1e55e48",
+        "id": "1b11b56b248fb628",
         "type": "tabs",
         "children": [
           {
-            "id": "ed22e80ef32ff5c2",
+            "id": "08b585ba45941abd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/CSE 12/7 Computer Architecture.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "7 Computer Architecture"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "19801aff5a2dc11e",
@@ -174,29 +170,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed22e80ef32ff5c2",
+  "active": "08b585ba45941abd",
   "lastOpenFiles": [
+    "Classes/MATH 21/18 Coordinate Vectors, Change of Basis.md",
+    "Image Files/Pasted image 20250223130441.png",
+    "Image Files/Pasted image 20250223130423.png",
+    "Image Files/Pasted image 20250223130216.png",
+    "Image Files/Pasted image 20250223130206.png",
+    "Image Files/Pasted image 20250223130115.png",
+    "Image Files/Pasted image 20250223125911.png",
+    "Image Files/Pasted image 20250223125639.png",
+    "Image Files/Pasted image 20250223125508.png",
+    "Image Files/Pasted image 20250223125440.png",
+    "Image Files/Pasted image 20250223125415.png",
     "Classes/MATH 21/16 Basis in Abstract Vector Spaces, Dimension.md",
-    "Image Files/Pasted image 20250217184014.png",
-    "Image Files/Pasted image 20250217184008.png",
-    "Image Files/Pasted image 20250217183929.png",
-    "Image Files/Pasted image 20250217183900.png",
-    "Image Files/Pasted image 20250217183803.png",
-    "Image Files/Pasted image 20250217183739.png",
-    "Image Files/Pasted image 20250217183718.png",
-    "Image Files/Pasted image 20250217183652.png",
-    "Image Files/Pasted image 20250217183618.png",
-    "Classes/MATH 21/15 Span & Linear Combinations of Abstract Vector Spaces.md",
-    "Classes/CSE 40/15 Data Wrangling part 3.md",
-    "Classes/CSE 40/14 Data Wrangling part 2.md",
+    "Classes/MATH 21/17 Basis in abstract vector spaces, dimension.md",
+    "Classes/CSE 12/5 Synchronous Ckts, Edge Triggered FF's, Data Representation.md",
     "Classes/CSE 12/6 Shifts and Rotates, Base Conversions.md",
-    "Image Files/Pasted image 20250217182657.png",
+    "Classes/CSE 12/1 Abstraction Gates.md",
+    "Classes/CSE 12/2 Boolean Algebra.md",
+    "Classes/CSE 12/3 SOP, POS, Decoders, Multiplexers.md",
+    "Classes/CSE 12/4 Xmission Gates, Data Storage and Sequential Circuits.md",
+    "Classes/CSE 40/15 Data Wrangling part 3.md",
+    "Classes/CSE 12/7 Computer Architecture.md",
+    "Classes/MATH 21/15 Span & Linear Combinations of Abstract Vector Spaces.md",
+    "Classes/CSE 40/14 Data Wrangling part 2.md",
     "Classes/CSE 40/13 Data Wrangling.md",
     "Classes/CSE 40/1 Intro To AIML.md",
     "Classes/CSE 40/2 Different Kinds of Reasoning.md",
-    "Classes/CSE 12/7 Computer Architecture.md",
     "Classes/MATH 21/14 Abstract Vector Spaces.md",
-    "Classes/CSE 12/5 Synchronous Ckts, Edge Triggered FF's, Data Representation.md",
     "Classes/MATH 21/13 Determinants.md",
     "Classes/CSE 40/11 Basic ML Math 2 part 2.md",
     "2025-02-10.md",
@@ -205,12 +207,6 @@
     "Classes/CSE 40/10 Basic ML Math 2 part 1.md",
     "Classes/CSE 40/9 Combinatorics.md",
     "Classes/MATH 21/11 More Inverses and Transpose.md",
-    "Classes/MATH 21/10 Matrix Inverses.md",
-    "Classes/CSE 40/8 Basic ML Math part 2.md",
-    "Classes/MATH 21/7 Nullity and Rank of a Matrix.md",
-    "Classes/MATH 21/6 Basis, Dimension.md",
-    "Classes/MATH 21/8 Matrix Algebra.md",
-    "Classes/MATH 21/9 Linear Maps and Dot Product.md",
     "Classes/Archive",
     "Classes/CSE 12",
     "Classes/MATH 21",
