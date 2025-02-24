@@ -33,4 +33,7 @@
 ### Row Compression
 - Sometimes it makes sense to reduce the number of rows in your data by merging two or more rows into one.
 
+### Joining Data
+- Another approach to feature construction is by joining tables in a variety of ways.
+	- Joining == combining data from columns of two (or more) different data tables.
 
