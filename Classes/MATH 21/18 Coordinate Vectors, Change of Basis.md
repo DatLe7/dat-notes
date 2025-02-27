@@ -22,7 +22,8 @@
 
 ### Kernel(Null Space) and Image(Range)
 ![[Pasted image 20250223130115.png]]
-
+ - The Kernel is the set of all inputs into the linear map to gives the zero vector as an output
+ - The Image is the set of all possible output vectors from applying the linear map to some input vector 
 ### Examples
 ![[Pasted image 20250223130206.png]]
 ![[Pasted image 20250223130216.png]]
@@ -30,6 +31,8 @@
 
 ### Injective, Surjective, Bijective
 ![[Pasted image 20250223130423.png]]
-
+- Injective means that each vector inputted into the linear map has one distinct output meaning there are no inputs that give the same output
+- Surjective means that its set of all possible output vectors is the same its output dimension (i.e. it can output all vectors in its output dimension)
+- Bijective means a linear map is both injective and surjective
 ### Examples
 ![[Pasted image 20250223130441.png]]
