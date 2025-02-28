@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSE 12/9 Hello World, Load and Store, Control Instructions.md",
+                "file": "Classes/CSE 12/10 Control Instructions, Conditional Branches, Jumps, Jump and Link, Set Conditionals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 Hello World, Load and Store, Control Instructions"
+              "title": "10 Control Instructions, Conditional Branches, Jumps, Jump and Link, Set Conditionals"
             }
           }
         ]
@@ -176,23 +176,22 @@
   },
   "active": "08b585ba45941abd",
   "lastOpenFiles": [
-    "Image Files/Pasted image 20250227165558.png",
-    "Image Files/Pasted image 20250227165545.png",
-    "Image Files/Pasted image 20250227165536.png",
+    "Classes/CSE 12/9 Load and Store, Control Instructions.md",
     "Classes/CSE 12/10 Control Instructions, Conditional Branches, Jumps, Jump and Link, Set Conditionals.md",
+    "Image Files/Pasted image 20250227171046.png",
+    "Image Files/Pasted image 20250227170744.png",
+    "Image Files/Pasted image 20250227170714.png",
+    "Image Files/Pasted image 20250227170517.png",
+    "Image Files/Pasted image 20250227170348.png",
+    "Image Files/Pasted image 20250227170225.png",
+    "Image Files/Pasted image 20250227170159.png",
+    "Image Files/Pasted image 20250227170141.png",
+    "Image Files/Pasted image 20250227165912.png",
+    "Image Files/Pasted image 20250227165842.png",
     "Classes/CSE 40/18 ML Models 1 part 1.md",
-    "Classes/CSE 12/9 Hello World, Load and Store, Control Instructions.md",
     "Classes/CSE 12/8 RISC-V.md",
     "Classes/CSE 12/7 Computer Architecture.md",
     "Classes/CSE 12/6 Shifts and Rotates, Base Conversions.md",
-    "Image Files/Pasted image 20250227165033.png",
-    "Image Files/Pasted image 20250227165026.png",
-    "Image Files/Pasted image 20250227165018.png",
-    "Image Files/Pasted image 20250227165007.png",
-    "Image Files/Pasted image 20250227165000.png",
-    "Image Files/Pasted image 20250227164915.png",
-    "Image Files/Pasted image 20250227164809.png",
-    "Image Files/Pasted image 20250227164719.png",
     "Classes/CSE 40/17 Basic ML Math 3 part 2.md",
     "Classes/MATH 21/20 Linear isomorphism, dim(ker) + dim(im) of a linear map.md",
     "Classes/MATH 21/19 Linear maps and they’re completely abstract but also still linear maps.md",
