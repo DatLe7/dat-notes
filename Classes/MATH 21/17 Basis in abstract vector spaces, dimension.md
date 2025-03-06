@@ -29,3 +29,10 @@
 ### Properties
 ![[Pasted image 20250223123635.png]]
 ![[Pasted image 20250223123647.png]]
+- A change of basis can find the coordinate vector of another basis given you have the coordinate vector of a starting basis
+- $[w]_{b}=P^a_{b}[w]_{a}$
+- Inverting a change of basis flips it
+- $(P^a_{b})^{-1}=P^b_{a}$
+
+- $P^b_{e}\cdot P^a_{b}=P^a_{e}$
+- This is because it first changes basis from a to b, then changes from b to e. This is the same thing as going from a to e but with extra steps so they are equivalent
