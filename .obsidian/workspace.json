@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1b11b56b248fb628",
+        "id": "935859524a6b5ef7",
         "type": "tabs",
         "children": [
           {
-            "id": "08b585ba45941abd",
+            "id": "ff67049ab3d3183c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/MATH 21/22 more eigen-stuff, diagonalizable matrices operators.md",
+                "file": "Classes/CSE 12/Quizzes/Quiz 3 - Sequential Circuits, Signed Numbers, Decoders, Multiplexers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 more eigen-stuff, diagonalizable matrices operators"
+              "title": "Quiz 3 - Sequential Circuits, Signed Numbers, Decoders, Multiplexers"
             }
           }
         ]
@@ -174,22 +174,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08b585ba45941abd",
+  "active": "ff67049ab3d3183c",
   "lastOpenFiles": [
+    "Classes/CSE 12/Quizzes/Quiz 2 - Basic CMOS, Truth Tables, Boolean Algebra.md",
+    "Classes/CSE 12/Quizzes/Quiz 5 - ASSEMBLY PROGRAMMING.md",
+    "Classes/CSE 12/Quizzes/Quiz 1 - Electricity Fundamentals.md",
+    "Classes/CSE 12/Quizzes/Midterm.md",
+    "Classes/CSE 12/Possible Quiz Equestions.md",
+    "Classes/CSE 12/Quizzes/Quiz 3 - Sequential Circuits, Signed Numbers, Decoders, Multiplexers.md",
+    "Classes/CSE 12/Quizzes",
+    "Image Files/Pasted image 20250315231302.png",
+    "Image Files/Pasted image 20250315230649.png",
+    "Image Files/Pasted image 20250315230447.png",
+    "Image Files/Pasted image 20250315230404.png",
+    "Image Files/Pasted image 20250315230327.png",
+    "Image Files/Pasted image 20250315230235.png",
+    "Image Files/Pasted image 20250315230149.png",
+    "Image Files/Pasted image 20250315230132.png",
+    "Image Files/Pasted image 20250315230115.png",
+    "Image Files/Pasted image 20250315230050.png",
+    "Classes/MATH 21/8 Matrix Algebra.md",
+    "Untitled.md",
     "Classes/CSE 12/11 Functions.md",
-    "Image Files/Pasted image 20250316142504.png",
-    "Image Files/Pasted image 20250316142433.png",
-    "Image Files/Pasted image 20250316142408.png",
-    "Image Files/Pasted image 20250316142401.png",
-    "Image Files/Pasted image 20250316142307.png",
-    "Image Files/Pasted image 20250316142248.png",
-    "Image Files/Pasted image 20250316142213.png",
-    "Image Files/Pasted image 20250316142147.png",
-    "Image Files/Pasted image 20250316142122.png",
-    "Image Files/Pasted image 20250316142104.png",
+    "Classes/CSE 12/5 Synchronous Ckts, Edge Triggered FF's, Data Representation.md",
+    "Classes/CSE 12/4 Xmission Gates, Data Storage and Sequential Circuits.md",
+    "Classes/CSE 12/3 SOP, POS, Decoders, Multiplexers.md",
+    "Classes/CSE 12/6 Shifts and Rotates, Base Conversions.md",
+    "Classes/MATH 21/22 more eigen-stuff, diagonalizable matrices operators.md",
     "Classes/CSE 12/10 Control Instructions, Conditional Branches, Jumps, Jump and Link, Set Conditionals.md",
     "Classes/CSE 40/23 ML Models 2 part 3.md",
-    "Classes/MATH 21/22 more eigen-stuff, diagonalizable matrices operators.md",
     "Classes/MATH 21/18 Coordinate Vectors, Change of Basis.md",
     "Classes/MATH 21/17 Basis in abstract vector spaces, dimension.md",
     "Classes/MATH 21/16 Basis in Abstract Vector Spaces, Dimension.md",
@@ -198,19 +211,8 @@
     "Classes/MATH 21/13 Determinants.md",
     "Classes/MATH 21/19 Linear maps and they’re completely abstract but also still linear maps.md",
     "Classes/CSE 40/22 ML Models 2 part 2.md",
-    "Classes/CSE 12/3 SOP, POS, Decoders, Multiplexers.md",
     "Classes/CSE 12/2 Boolean Algebra.md",
     "Classes/CSE 12/9 Load and Store, Control Instructions.md",
-    "Classes/CSE 40/20 ML Models 1 part 3.md",
-    "Classes/CSE 40/21 ML Models 2 part 1.md",
-    "Classes/MATH 21/21 Eigenvectors and Eigenvalues.md",
-    "Classes/MATH 21/20 Linear isomorphism, dim(ker) + dim(im) of a linear map.md",
-    "Classes/CSE 40/19 ML Models 1 part 2.md",
-    "Classes/CSE 40/18 ML Models 1 part 1.md",
-    "Classes/CSE 40/17 Basic ML Math 3 part 2.md",
-    "Classes/CSE 40/14 Data Wrangling part 2.md",
-    "Classes/CSE 40/7 Basic ML Math part 1.md",
-    "Classes/CSE 40/4 Basic Machine Learning and Evaluation.md",
     "Classes/Archive",
     "Classes/CSE 12",
     "Classes/MATH 21",
@@ -220,7 +222,6 @@
     "MIT Linear Algebra Course",
     "Clubs/SlugBotics - CruzControl",
     "Classes/Archive/CSE 30",
-    "Clubs",
-    "Classes"
+    "Clubs"
   ]
 }
