@@ -42,7 +42,7 @@ $\mathbb{Z}=\{ \dots,-3,-2,-1,0,1,2,3,\dots \}$
 i.e. $X=\{ 1,2,3 \}$ then $|X|=3$ 
 i.e. $A=\{ a,b,c,d,e \}$ then $|A|=5$
 i.e. $|\emptyset| = 0$ 
-i.e. $Z=\{ \emptyset \}$ then $|Z|=1$, this is because Z is a set containing the empty set, meaning it contains one element that being the empty set
+i.e. $G=\{ \emptyset \}$ then $|G|=1$, this is because Z is a set containing the empty set, meaning it contains one element that being the empty set
 
 ### Set Builder
 A special notation called **set-builder notation** is used to describe sets that are too big or complex to list between braces.
@@ -57,6 +57,13 @@ $X=\{ \exp ression:rule \}$
 - The same set can be written in many different ways
 i.e. $\{ 2n|n\in \mathbb{Z} \}$ is the same as $\{ n\in \mathbb{Z}|n \;is\;even \}$
 
-**Example**
+**Example #1**
 Describe the set $A=\{ 7a+3b|a,b\in \mathbb{Z} \}$
-- A is a set of the form 7a + 3b given a and b are integers.
+- Since the gcd(7,3)=1 (greatest common denominator of 7 and 3 is 1) that means that there exist a combination of a and b that makes a resulting integer of 1
+- We can then also then deduct that we will be able to make all integers in the set of $\mathbb{Z}$ if we just scalar multiply the combination of a and b that results in 1 to get any integer
+
+**Example #2**
+Describe the set $B=\{ 3a+9b|a,b\in \mathbb{Z} \}$
+- We can rewrite the set as $\{ 3k|k\in \mathbb{Z} \}$ given that $k=a+3b$ 
+- We know that k can is the same as $\mathbb{Z}$ because the gcd(1,3)=1
+- that means that the set $B=3\mathbb{Z}$ making all elements in the set a multiple of 3
