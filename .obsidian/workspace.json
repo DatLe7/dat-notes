@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSE 13S/1 Syllabus yap.md",
+                "file": "Classes/CSE 16/2 Cartesian Product, Subsets, Powersets, Set Ops, Venn Diagrams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Syllabus yap"
+              "title": "2 Cartesian Product, Subsets, Powersets, Set Ops, Venn Diagrams"
             }
           }
         ]
@@ -176,10 +176,22 @@
   },
   "active": "bb80b444237e4cf1",
   "lastOpenFiles": [
+    "Image Files/Pasted image 20250402145332.png",
+    "Image Files/Pasted image 20250402145327.png",
+    "Image Files/Pasted image 20250402145314.png",
+    "Image Files/Pasted image 20250402145306.png",
+    "Image Files/Pasted image 20250402143055.png",
+    "Classes/Archive/MATH 21/21 Eigenvectors and Eigenvalues.md",
+    "Classes/Archive/MATH 21/22 more eigen-stuff, diagonalizable matrices operators.md",
+    "Classes/CSE 16/2 Cartesian Product, Subsets, Powersets, Set Ops, Venn Diagrams.md",
+    "Image Files/Pasted image 20250402140731.png",
+    "Image Files/Pasted image 20250402140603.png",
+    "Image Files/Pasted image 20250402140429.png",
+    "Image Files/Pasted image 20250402140417.png",
+    "Classes/CSE 16/1 Sets, Cardinality, Set Builder.md",
+    "Classes/CSE 13S/1 Syllabus yap.md",
     "Image Files/Pasted image 20250331134119.png",
     "Image Files/Pasted image 20250331134017.png",
-    "Classes/CSE 16/1 Sets, Set Builder.md",
-    "Classes/CSE 13S/1 Syllabus yap.md",
     "Classes/Archive/CSE 12/8 RISC-V.md",
     "Classes/CSE 13S",
     "Classes/CSE 13S.md",
@@ -201,20 +213,8 @@
     "Classes/Archive/CSE 12/Quizzes/Quiz 1 - Electricity Fundamentals.md",
     "Classes/Archive/CSE 12/Quizzes/Quiz 3 - Sequential Circuits, Signed Numbers, Decoders, Multiplexers.md",
     "Classes/Archive/CSE 12/Quizzes/Quiz 2 - Basic CMOS, Truth Tables, Boolean Algebra.md",
-    "Classes/Archive/MATH 21/22 more eigen-stuff, diagonalizable matrices operators.md",
-    "Classes/Archive/MATH 21/21 Eigenvectors and Eigenvalues.md",
     "Classes/Archive/CSE 12/Quizzes",
-    "Image Files/Pasted image 20250315231302.png",
-    "Image Files/Pasted image 20250315230649.png",
-    "Image Files/Pasted image 20250315230447.png",
-    "Image Files/Pasted image 20250315230404.png",
-    "Image Files/Pasted image 20250315230327.png",
-    "Image Files/Pasted image 20250315230235.png",
-    "Image Files/Pasted image 20250315230149.png",
-    "Image Files/Pasted image 20250315230132.png",
-    "Image Files/Pasted image 20250315230115.png",
     "Classes/Archive/MATH 21/8 Matrix Algebra.md",
-    "Untitled.md",
     "Classes/Archive",
     "Classes/Archive/CSE 12",
     "Classes/Archive/MATH 21",
