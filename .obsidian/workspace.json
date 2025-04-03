@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSE 16/2 Cartesian Product, Subsets, Powersets, Set Ops, Venn Diagrams.md",
+                "file": "Classes/CSE 13S/2 Review of Binary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Cartesian Product, Subsets, Powersets, Set Ops, Venn Diagrams"
+              "title": "2 Review of Binary"
             }
           }
         ]
@@ -176,9 +176,11 @@
   },
   "active": "bb80b444237e4cf1",
   "lastOpenFiles": [
+    "Classes/CSE 13S/1 Syllabus yap.md",
+    "Classes/CSE 13S/2 Review of Binary.md",
+    "Classes/CSE 16/2 Cartesian Product, Subsets, Powersets, Set Ops, Venn Diagrams.md",
     "Classes/CSE 16/1 Sets, Cardinality, Set Builder.md",
     "Classes/CSE 16/Assignments/Assignment 1.md",
-    "Classes/CSE 16/2 Cartesian Product, Subsets, Powersets, Set Ops, Venn Diagrams.md",
     "Classes/CSE 16/Assignments",
     "Image Files/Pasted image 20250402145332.png",
     "Image Files/Pasted image 20250402145327.png",
@@ -191,7 +193,6 @@
     "Image Files/Pasted image 20250402140603.png",
     "Image Files/Pasted image 20250402140429.png",
     "Image Files/Pasted image 20250402140417.png",
-    "Classes/CSE 13S/1 Syllabus yap.md",
     "Image Files/Pasted image 20250331134119.png",
     "Classes/Archive/CSE 12/8 RISC-V.md",
     "Classes/CSE 13S",
@@ -215,7 +216,6 @@
     "Classes/Archive/CSE 12/Quizzes/Quiz 3 - Sequential Circuits, Signed Numbers, Decoders, Multiplexers.md",
     "Classes/Archive/CSE 12/Quizzes/Quiz 2 - Basic CMOS, Truth Tables, Boolean Algebra.md",
     "Classes/Archive/CSE 12/Quizzes",
-    "Classes/Archive/MATH 21/8 Matrix Algebra.md",
     "Classes/Archive",
     "Classes/Archive/CSE 12",
     "Classes/Archive/MATH 21",
