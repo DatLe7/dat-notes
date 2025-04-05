@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSE 13S/2 Review of Binary.md",
+                "file": "Classes/CSE 16/3 Indexes, Div Alg, Russel's Paradox,.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Review of Binary"
+              "title": "3 Indexes, Div Alg, Russel's Paradox,"
             }
           }
         ]
@@ -176,10 +176,11 @@
   },
   "active": "bb80b444237e4cf1",
   "lastOpenFiles": [
-    "Classes/CSE 13S/1 Syllabus yap.md",
-    "Classes/CSE 13S/2 Review of Binary.md",
     "Classes/CSE 16/2 Cartesian Product, Subsets, Powersets, Set Ops, Venn Diagrams.md",
+    "Classes/CSE 16/3 Indexes, Div Alg, Russel's Paradox,.md",
     "Classes/CSE 16/1 Sets, Cardinality, Set Builder.md",
+    "Classes/CSE 13S/2 Review of Binary.md",
+    "Classes/CSE 13S/1 Syllabus yap.md",
     "Classes/CSE 16/Assignments/Assignment 1.md",
     "Classes/CSE 16/Assignments",
     "Image Files/Pasted image 20250402145332.png",
@@ -214,7 +215,6 @@
     "Classes/Archive/CSE 12/4 Xmission Gates, Data Storage and Sequential Circuits.md",
     "Classes/Archive/CSE 12/Quizzes/Quiz 1 - Electricity Fundamentals.md",
     "Classes/Archive/CSE 12/Quizzes/Quiz 3 - Sequential Circuits, Signed Numbers, Decoders, Multiplexers.md",
-    "Classes/Archive/CSE 12/Quizzes/Quiz 2 - Basic CMOS, Truth Tables, Boolean Algebra.md",
     "Classes/Archive/CSE 12/Quizzes",
     "Classes/Archive",
     "Classes/Archive/CSE 12",
