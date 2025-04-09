@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSE 16/5 Equivalence, DeMorgan's Laws.md",
+                "file": "Classes/CSE 13S/4 Intro to C part 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 Equivalence, DeMorgan's Laws"
+              "title": "4 Intro to C part 2"
             }
           }
         ]
@@ -176,20 +176,21 @@
   },
   "active": "bb80b444237e4cf1",
   "lastOpenFiles": [
+    "Image Files/Pasted image 20250409163641.png",
+    "Image Files/Pasted image 20250409162953.png",
+    "Image Files/Pasted image 20250409162943.png",
+    "Image Files/Pasted image 20250409162932.png",
+    "Image Files/Pasted image 20250409162925.png",
+    "Image Files/Pasted image 20250409162914.png",
+    "Classes/CSE 13S/3 Intro to C.md",
+    "Classes/CSE 13S/4 Intro to C part 2.md",
+    "Classes/CSE 16/5 Equivalence, DeMorgan's Laws.md",
     "Image Files/Pasted image 20250409162446.png",
     "Image Files/Pasted image 20250409161611.png",
     "Image Files/Pasted image 20250409155255.png",
     "Classes/CSE 16/4 Logical Statements and Logical Operators.md",
-    "Classes/CSE 16/5 Equivalence, DeMorgan's Laws.md",
     "Image Files/Pasted image 20250409154703.png",
     "Image Files/Pasted image 20250409154701.png",
-    "Classes/CSE 13S/3 Intro to C.md",
-    "Image Files/Pasted image 20250407164859.png",
-    "Image Files/Pasted image 20250407164845.png",
-    "Image Files/Pasted image 20250407163740.png",
-    "Image Files/Pasted image 20250407162436.png",
-    "Image Files/Pasted image 20250407162355.png",
-    "Image Files/Pasted image 20250407161543.png",
     "Classes/CSE 16/3 Indexes, Div Alg, Russel's Paradox,.md",
     "Classes/CSE 13S/2 Review of Binary.md",
     "2025-04-07.md",
@@ -214,7 +215,6 @@
     "Classes/Archive/CSE 12/Possible Quiz Equestions.md",
     "Classes/Archive/CSE 12/RISC V Comamnds.md",
     "Classes/Archive/CSE 12/1 Abstraction Gates.md",
-    "Classes/Archive/CSE 12/2 Boolean Algebra.md",
     "Classes/Archive/CSE 12/Quizzes",
     "Classes/Archive",
     "Classes/Archive/CSE 12",
