@@ -65,3 +65,5 @@ A = {x | P is true for x} and B = {x | Q is true for x}
 
 **Example:**
 ![[Pasted image 20250409162446.png]]
+
+$x\in S\cup T$
