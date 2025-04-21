@@ -60,7 +60,7 @@ switch (ch) {
 
 ### array
 `int nums[5]`
-- This will store 4 elements because the 5th one is saved for the terminating element
+- This will store 5 elements
 `int nums[] = [2, 3, 5, 6,1, 1, 4]`
 - C will automatically assign memory to the array if a value is initialized
 
@@ -69,7 +69,7 @@ switch (ch) {
 #include <string.h>
 
 char s1[4] = "abc";
-char s2[4] = "def";
+char s2[] = "def"; // Will automatically assign 4 elements worth of memory
 
 int main(void) {
     printf("s1 is %s\n", s1);
@@ -84,3 +84,5 @@ int main(void) {
 ```
 - We can also leave the memory assignment blank and allow C to determine how much is needed
 - Strings are just arrays of chars
+- Strings need a terminating term with value 0
+- So a string "ddd" with have 4 elements with the last one being value 0
