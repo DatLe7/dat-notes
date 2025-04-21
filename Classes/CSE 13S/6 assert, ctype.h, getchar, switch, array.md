@@ -58,3 +58,29 @@ switch (ch) {
 - Will keep incrementing the pc / going to the next instruction so you must include a break statement
 - If no value is found then default is run
 
+### array
+`int nums[5]`
+- This will store 4 elements because the 5th one is saved for the terminating element
+`int nums[] = [2, 3, 5, 6,1, 1, 4]`
+- C will automatically assign memory to the array if a value is initialized
+
+``` c
+#include <stdio.h>
+#include <string.h>
+
+char s1[4] = "abc";
+char s2[4] = "def";
+
+int main(void) {
+    printf("s1 is %s\n", s1);
+    printf("s2 is %s\n", s2);
+
+    strncpy(s2, s1, 4);
+
+    printf("s1 is %s\n", s1);
+    printf("s2 is %s\n", s2);
+    return 0;
+}
+```
+- We can also leave the memory assignment blank and allow C to determine how much is needed
+- Strings are just arrays of chars
