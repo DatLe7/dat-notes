@@ -21,7 +21,7 @@ $C(n,k)=\frac{n!}{k!(n-k)!}$
 $C(n,k)=C(n,n-k)$
 $\frac{6!}{2!(6-2)!}=\frac{6!}{4!(6-4)!}$
 
-**Also**
+### Pascal's Identity
 $C(n+1,k)=C(n,k)+C(n,k-1)$
 - Think of $C(n,k)$ as being k subsets that don't contain {0}
 - Think of C(n,k-1) also as being k-1 subsets that don't contain {0} but if we union those subsets with {0} then we have the complement of $C(n,k)$ being all the subsets that do contain {0}

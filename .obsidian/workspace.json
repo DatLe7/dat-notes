@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSE 13S/6 assert, ctype.h, getchar, switch, array.md",
+                "file": "Classes/CSE 16/1 Sets, Cardinality, Set Builder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 assert, ctype.h, getchar, switch, array"
+              "title": "1 Sets, Cardinality, Set Builder"
+            }
+          },
+          {
+            "id": "80ea84c06c71c0ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CSE 16/11 More Proofs, Applications to Number Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11 More Proofs, Applications to Number Theory"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,33 +189,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb80b444237e4cf1",
+  "active": "80ea84c06c71c0ae",
   "lastOpenFiles": [
-    "Classes/CSE 13S/5 argc & argv, strcmp.md",
+    "Classes/CSE 16/10 Inclusion-exclusion principle, Pigeonhole.md",
+    "Classes/CSE 16/11 More Proofs, Applications to Number Theory.md",
+    "Image Files/Pasted image 20250424162720.png",
+    "Image Files/Pasted image 20250424162657.png",
+    "Image Files/Pasted image 20250424162649.png",
+    "Image Files/Pasted image 20250424162613.png",
+    "Image Files/Pasted image 20250424161341.png",
+    "Image Files/Pasted image 20250424160645.png",
+    "Image Files/Pasted image 20250424155756.png",
+    "Classes/CSE 16/9 Binomial Coefficients, Inclusion-exclusion Principle.md",
+    "Image Files/Pasted image 20250424155354.png",
+    "Classes/CSE 16/8 Counting Subsets, Pascal's Triangle, Binomial.md",
+    "Classes/CSE 16/7 Rules of Inference, Combinatorics.md",
+    "Classes/CSE 16/6 Quantifiers, Negation.md",
+    "Classes/CSE 16/5 Equivalence, DeMorgan's Laws.md",
+    "Classes/CSE 16/4 Logical Statements and Logical Operators.md",
+    "Classes/CSE 16/3 Indexes, Div Alg, Russel's Paradox,.md",
+    "Classes/CSE 16/2 Cartesian Product, Subsets, Powersets, Set Ops, Venn Diagrams.md",
+    "Classes/CSE 16/1 Sets, Cardinality, Set Builder.md",
     "Classes/CSE 13S/6 assert, ctype.h, getchar, switch, array.md",
+    "Classes/CSE 13S/5 argc & argv, strcmp.md",
     "Classes/CSE 13S/4 Intro to C part 2.md",
     "Classes/CSE 13S/3 Intro to C.md",
-    "Classes/CSE 16/9 Binomial Coefficients, Inclusion-exclusion Principle.md",
     "Image Files/Pasted image 20250420221710.png",
-    "Classes/CSE 16/8 Counting Subsets, Pascal's Triangle, Binomial.md",
     "Image Files/Pasted image 20250420220844.png",
-    "Image Files/Pasted image 20250420220842.png",
-    "Image Files/Pasted image 20250420220835.png",
-    "Image Files/Pasted image 20250420220832.png",
-    "Image Files/Pasted image 20250420220813.png",
-    "Classes/CSE 16/7 Rules of Inference, Combinatorics.md",
-    "Classes/CSE 16/2 Cartesian Product, Subsets, Powersets, Set Ops, Venn Diagrams.md",
-    "Classes/CSE 16/6 Quantifiers, Negation.md",
-    "Classes/CSE 16/4 Logical Statements and Logical Operators.md",
-    "Classes/CSE 16/5 Equivalence, DeMorgan's Laws.md",
-    "Image Files/Pasted image 20250414165111.png",
-    "Image Files/Pasted image 20250414165034.png",
-    "Image Files/Pasted image 20250414164915.png",
-    "Image Files/Pasted image 20250414164818.png",
-    "Classes/CSE 16/3 Indexes, Div Alg, Russel's Paradox,.md",
     "Classes/CSE 13S/2 Review of Binary.md",
     "2025-04-07.md",
-    "Classes/CSE 16/1 Sets, Cardinality, Set Builder.md",
     "Classes/CSE 13S/1 Syllabus yap.md",
     "Classes/CSE 16/Assignments/Assignment 1.md",
     "Classes/CSE 16/Assignments",
@@ -213,8 +230,6 @@
     "Classes/Archive/CSE 12/7 Computer Architecture.md",
     "Classes/Archive/CSE 12/6 Shifts and Rotates, Base Conversions.md",
     "Classes/Archive/CSE 12/10 Control Instructions, Conditional Branches, Jumps, Jump and Link, Set Conditionals.md",
-    "Classes/Archive/CSE 12/11 Functions.md",
-    "Classes/Archive/CSE 12/9 Load and Store, Control Instructions.md",
     "Classes/Archive/CSE 12/Quizzes",
     "Classes/Archive",
     "Classes/Archive/CSE 12",

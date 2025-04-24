@@ -25,3 +25,4 @@ hand, and 5 for the others
 $C(52,10) \cdot C(10,5)$
 
 ![[Pasted image 20250420221710.png]]
+![[Pasted image 20250424155354.png]]
