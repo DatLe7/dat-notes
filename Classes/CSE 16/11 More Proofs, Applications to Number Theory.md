@@ -10,7 +10,7 @@ number theory and all of mathematics.
 
 **Every even natural number greater than 2 is the sum of two prime numbers.**
 
-- The conjecture has been shown to hold for all integers less than 4×10 18 butremains unproven.
+- The conjecture has been shown to hold for all integers less than 4×10 18 but remains unproven.
 - Not proven -> not a theorem. It feels true, but we’re not sure. Someone may come up with a counter-example.
 ![[Pasted image 20250424163030.png]]
 
@@ -55,6 +55,3 @@ We can rewrite this in the proposition form we have been using:
 3. Since $n^2=2m+1$ for some integer m, we know $n^2$ must be odd
 
 This concludes the proof. We typically announce this by writing "QED" or a little box: $\square$
-
----
-**Example Theorem:**
