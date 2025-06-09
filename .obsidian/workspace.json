@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSE 16/CSE 16 CHEATSHEET.md",
+                "file": "Classes/CSE 16/FINALS CHEATSHEET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSE 16 CHEATSHEET"
+              "title": "FINALS CHEATSHEET"
             }
           }
         ],
@@ -191,26 +191,27 @@
   },
   "active": "80ea84c06c71c0ae",
   "lastOpenFiles": [
+    "Image Files/Pasted image 20250609000602.png",
+    "Image Files/Pasted image 20250609000522.png",
+    "Classes/CSE 16/CSE 16 CHEATSHEET.md",
+    "Classes/CSE 16/FINALS CHEATSHEET.md",
+    "Image Files/Pasted image 20250608215147.png",
+    "Image Files/Pasted image 20250608214859.png",
+    "Classes/CSE 16/2 Cartesian Product, Subsets, Powersets, Set Ops, Venn Diagrams.md",
+    "Classes/CSE 16/1 Sets, Cardinality, Set Builder.md",
     "Image Files/Pasted image 20250515223321.png",
     "Image Files/Pasted image 20250515223031.png",
     "Image Files/Pasted image 20250515222102.png",
     "Image Files/Pasted image 20250515221604.png",
     "Classes/CSE 16/11 More Proofs, Applications to Number Theory.md",
-    "Classes/CSE 16/CSE 16 CHEATSHEET.md",
     "Classes/CSE 16/10 Inclusion-exclusion principle, Pigeonhole.md",
     "Classes/CSE 16/999 Definitions.md",
     "Classes/CSE 16/9 Binomial Coefficients, Inclusion-exclusion Principle.md",
     "Classes/CSE 13S/6 assert, ctype.h, getchar, switch, array.md",
     "Classes/CSE 16/3 Indexes, Div Alg, Russel's Paradox,.md",
-    "Classes/CSE 16/2 Cartesian Product, Subsets, Powersets, Set Ops, Venn Diagrams.md",
-    "Classes/CSE 16/1 Sets, Cardinality, Set Builder.md",
     "Image Files/Pasted image 20250424163030.png",
     "Image Files/Pasted image 20250424162720.png",
     "Image Files/Pasted image 20250424162657.png",
-    "Image Files/Pasted image 20250424162649.png",
-    "Image Files/Pasted image 20250424162613.png",
-    "Image Files/Pasted image 20250424161341.png",
-    "Image Files/Pasted image 20250424160645.png",
     "Classes/CSE 16/8 Counting Subsets, Pascal's Triangle, Binomial.md",
     "Classes/CSE 16/7 Rules of Inference, Combinatorics.md",
     "Classes/CSE 16/6 Quantifiers, Negation.md",
@@ -228,7 +229,6 @@
     "Classes/Archive/MATH 21/22 more eigen-stuff, diagonalizable matrices operators.md",
     "Classes/Archive/CSE 12/8 RISC-V.md",
     "Classes/CSE 13S",
-    "Classes/CSE 13S.md",
     "Classes/CSE 16",
     "Classes/Archive/CSE 12/Quizzes",
     "Classes/Archive",
